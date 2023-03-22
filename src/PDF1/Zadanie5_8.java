@@ -1,3 +1,5 @@
+package PDF1;
+
 import java.util.Scanner;
 
 public class Zadanie5_8 {
